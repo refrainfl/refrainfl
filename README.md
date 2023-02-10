@@ -1,8 +1,6 @@
 
-```
 ### Hi there 👋
 ##### Backend 개발자 취업 준비생 입니다.
-```
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=refrain2k)](https://solved.ac/refrain2k/)
 
 
