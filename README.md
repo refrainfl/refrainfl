@@ -10,11 +10,11 @@
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refrainfl&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=refrainfl&theme=tokyonight&show_icons=true" width="33%" />
-</a>
+## Stats 💪
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refrainfl&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=refrainfl&theme=tokyonight&show_icons=true" width="33%" />
+</div>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=refrain2k)](https://solved.ac/refrain2k/)
