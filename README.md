@@ -12,8 +12,8 @@
 
 ## Stats 💪
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refrainfl&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api?username=refrainfl&theme=tokyonight&show_icons=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refrainfl&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </div>
 
 
